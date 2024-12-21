@@ -1,0 +1,5 @@
+.booksvenv
+.env
+
+.idea
+src/config/base.py
